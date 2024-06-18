@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
     <head lang="es-ES">
-        <title>PRÁCTICA </title>
+    
         <meta charset="utf-8">
         <link href="cajas Gab.css" rel="stylesheet">
     </head>

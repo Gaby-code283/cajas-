@@ -1,1 +1,16 @@
 # cajas-
+<!DOCTYPE html>
+<html>
+    <head lang="es-ES">
+        <title>PRÁCTICA </title>
+        <meta charset="utf-8">
+        <link href="cajas Gab.css" rel="stylesheet">
+    </head>
+    <body>
+        <h1>Las famosas cajas flotantes</h1>
+        <div id="cajaNegra">Caja NEGRA <img src="azul.jpg" width="200" height="100"></div>
+        <div id="cajaAzul">Caja AZUL <img src="verde.jpg" width="200" height="100"> </div>
+        <div id="cajaVerde">Caja VERDE <img src="amarillo.jpg" width="200" height="100"></div>
+        <div id="cajaRoja">Caja ROJA <img src="rojo.jpg" width="200" height="100"></div>
+    </body>
+</html>

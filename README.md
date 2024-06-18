@@ -1,8 +1,7 @@
 # cajas-
 <!DOCTYPE html>
 <html>
-    <head lang="es-ES">
-    
+    <head lang="es-ES"  
         <meta charset="utf-8">
         <link href="cajas Gab.css" rel="stylesheet">
     </head>
